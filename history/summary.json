@@ -4,18 +4,20 @@
     "url": "https://nexusgraph.com/",
     "icon": "https://paion-data.github.io/nexusgraph.com/favicon.ico",
     "slug": "nexusgraph-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 297,
-    "timeDay": 303,
-    "timeWeek": 277,
-    "timeMonth": 297,
-    "timeYear": 297,
-    "dailyMinutesDown": {}
+    "time": 292,
+    "timeDay": 276,
+    "timeWeek": 271,
+    "timeMonth": 292,
+    "timeYear": 292,
+    "dailyMinutesDown": {
+      "2024-07-08": 0
+    }
   },
   {
     "name": "Paion Data CI/CD platform",
