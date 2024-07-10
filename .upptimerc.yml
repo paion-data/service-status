@@ -11,8 +11,8 @@ sites:
     url: https://artifactory.paion-data.dev/
   - name: Astraios
     url: https://astraios.io
-  # - name: Immutable Infrastructure as a Service
-  #   url: https://immutable-infrastructure.com
+  - name: Immutable Infrastructure as a Service
+    url: https://immutable-infrastructure.com
   - name: Screwdriver CD Home Page
     url: https://screwdriver.paion-data.dev
     icon: https://icons.duckduckgo.com/ip3/screwdriver-docs.paion-data.dev.ico
