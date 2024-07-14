@@ -24,7 +24,7 @@
     "url": "https://ci-cd.paion-data.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/ci-cd.paion-data.dev.ico",
     "slug": "paion-data-ci-cd-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 303,
     "timeMonth": 293,
     "timeYear": 293,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-14": 0
+    }
   },
   {
     "name": "Paion Data Software Artifactory",
