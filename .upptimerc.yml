@@ -9,6 +9,8 @@ sites:
     url: https://ci-cd.paion-data.dev/
   - name: Paion Data Software Artifactory
     url: https://artifactory.paion-data.dev/
+  - name: Paion Data Docker Registry
+    url: https://hub.paion-data.dev/
   - name: Astraios
     url: https://astraios.io
   - name: Immutable Infrastructure as a Service
