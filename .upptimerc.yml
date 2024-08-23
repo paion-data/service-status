@@ -7,6 +7,8 @@ sites:
     icon: https://paion-data.github.io/nexusgraph.com/favicon.ico
   - name: paion-data.com
     url: https://paion-data.com/
+  - name: Wilhelm
+    url: https://wilhelmlang.com/
   - name: Paion Data CI/CD platform
     url: https://ci-cd.paion-data.dev/
   - name: Paion Data Software Artifactory
