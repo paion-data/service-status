@@ -9,8 +9,6 @@ sites:
     url: https://paion-data.com/
   - name: Wilhelm
     url: https://wilhelmlang.com/
-  - name: Paion Data CI/CD platform
-    url: https://ci-cd.paion-data.dev/
   - name: Paion Data Software Artifactory
     url: https://artifactory.paion-data.dev/
   - name: Paion Data Docker Registry
