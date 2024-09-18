@@ -27,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/paion-data.com.ico",
     "slug": "paion-data-com",
     "status": "up",
-    "uptime": "69.91%",
+    "uptime": "70.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "49.77%",
-    "uptimeYear": "69.91%",
+    "uptimeYear": "70.02%",
     "time": 1070,
     "timeDay": 1188,
     "timeWeek": 1072,
@@ -79,7 +79,7 @@
     "url": "https://artifactory.paion-data.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/artifactory.paion-data.dev.ico",
     "slug": "paion-data-software-artifactory",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -90,7 +90,9 @@
     "timeWeek": 247,
     "timeMonth": 268,
     "timeYear": 266,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-18": 0
+    }
   },
   {
     "name": "Paion Data Docker Registry",
