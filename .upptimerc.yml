@@ -7,14 +7,6 @@ sites:
     icon: https://paion-data.github.io/nexusgraph.com/favicon.ico
   - name: paion-data.com
     url: https://paion-data.com/
-  - name: Wilhelm
-    url: https://wilhelmlang.com/
-  - name: Paion Data Software Artifactory
-    url: https://artifactory.paion-data.dev/
-  - name: Paion Data Docker Registry
-    url: https://hub.paion-data.dev/
-  - name: Astraios
-    url: https://astraios.io
   - name: Immutable Infrastructure as a Service
     url: https://immutable-infrastructure.com
 
