@@ -7,8 +7,6 @@ sites:
     icon: https://paion-data.github.io/nexusgraph.com/favicon.ico
   - name: paion-data.com
     url: https://paion-data.com/
-  - name: Immutable Infrastructure as a Service
-    url: https://immutable-infrastructure.com
 
 status-website:
   cname: status.paion-data.dev
