@@ -7,6 +7,8 @@ sites:
     icon: https://paion-data.github.io/nexusgraph.com/favicon.ico
   - name: paion-data.com
     url: https://paion-data.com/
+  - name: Paion Data API Gateway
+    url:  https://api.paion-data.dev/wilhelm/languages/german?perPage=100&page=1
 
 status-website:
   cname: status.paion-data.dev
