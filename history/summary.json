@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/paion-data.com.ico",
     "slug": "paion-data-com",
     "status": "up",
-    "uptime": "85.55%",
+    "uptime": "85.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.55%",
+    "uptimeYear": "85.61%",
     "time": 1072,
     "timeDay": 1175,
     "timeWeek": 1075,
@@ -57,9 +57,9 @@
     "url": "https://api.paion-data.dev/wilhelm/languages/german?perPage=100&page=1",
     "icon": "https://icons.duckduckgo.com/ip3/api.paion-data.dev.ico",
     "slug": "paion-data-api-gateway",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -68,6 +68,8 @@
     "timeWeek": 1209,
     "timeMonth": 1209,
     "timeYear": 1209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-12": 0
+    }
   }
 ]
