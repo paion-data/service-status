@@ -2,9 +2,6 @@ owner: paion-data
 repo: service-status
 
 sites:
-  - name: nexusgraph.com
-    url: https://nexusgraph.com/
-    icon: https://paion-data.github.io/nexusgraph.com/favicon.ico
   - name: paion-data.com
     url: https://paion-data.com/
   - name: Paion Data API Gateway
