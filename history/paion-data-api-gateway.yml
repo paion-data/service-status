@@ -1,7 +1,7 @@
 url: https://api.paion-data.dev/wilhelm/languages/german?perPage=100&page=1
-status: down
-code: 500
-responseTime: 719
-lastUpdated: 2024-12-12T12:25:14.044Z
+status: up
+code: 200
+responseTime: 1157
+lastUpdated: 2024-12-12T13:02:19.879Z
 startTime: 2024-11-06T12:23:00.814Z
 generator: Upptime <https://github.com/upptime/upptime>
