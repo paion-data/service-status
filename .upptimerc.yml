@@ -6,7 +6,7 @@ sites:
     url: https://paion-data.com/
   - name: Paion Data API Gateway
     url:  https://api.paion-data.dev/wilhelm/languages/german?perPage=100&page=1
-    icon: https://private-avatars.githubusercontent.com/u/962416
+    icon: https://private-avatars.githubusercontent.com/u/962416?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0NjAsIm5iZiI6MTczNDU3NDI2MCwicGF0aCI6Ii91Lzk2MjQxNiJ9.u5hJ7HVBg44lnqc2GjKCDp10skqMiZZ_qtZ1tIhDgdI&s=48&v=4
 
 status-website:
   cname: status.paion-data.dev
