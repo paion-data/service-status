@@ -13,6 +13,8 @@ sites:
   - name: Paion Data API Gateway
     url:  https://api.paion-data.dev/wilhelm/languages/german?perPage=100&page=1
     icon: https://konghq.com/favicon.ico
+  - name: hashistack
+    url: https://hashistack.paion-data.dev/
 
 status-website:
   cname: status.paion-data.dev
