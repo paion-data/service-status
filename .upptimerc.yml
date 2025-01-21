@@ -8,8 +8,6 @@ sites:
     url: https://wilhelmlang.com
   - name: Alexandria
     url: https://alexandria.paion-data.com/
-  - name: UI Design Hub
-    url: https://ui.paion-data.com/
   - name: FastUI
     url: https://fastui.paion-data.com/
   - name: Paion Data API Gateway
