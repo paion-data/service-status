@@ -6,8 +6,6 @@ sites:
     url: https://paion-data.com/
   - name: wilhelmlang.com
     url: https://wilhelmlang.com
-  - name: Alexandria
-    url: https://alexandria.paion-data.com/
   - name: UI Component Library
     url: https://ui.paion-data.com/
   - name: FastUI
