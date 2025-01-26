@@ -15,7 +15,11 @@ sites:
   - name: Aristotle
     url: https://huggingface.co/spaces/paion-data/aristotle
   - name: Lamassu
-    url: https://huggingface.co/spaces/paion-data/lamassu
+    method: POST
+    url: https://paion-data-lamassu.hf.space/gradio_api/call/predict
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "data": ["我爱中国"] }'
   - name: Wiktionary Data
     url: https://huggingface.co/datasets/paion-data/wiktionary-data
   - name: UI Component Library
