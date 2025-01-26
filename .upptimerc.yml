@@ -15,6 +15,7 @@ sites:
   - name: Aristotle
     url: https://huggingface.co/spaces/paion-data/aristotle
   - name: Lamassu
+    icon: https://huggingface.co/favicon.ico
     method: POST
     url: https://paion-data-lamassu.hf.space/gradio_api/call/predict
     headers:
