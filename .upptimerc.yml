@@ -22,6 +22,8 @@ sites:
     url: https://ui.paion-data.com/
   - name: FastUI
     url: https://fastui.paion-data.com/
+  - name: Bertok
+    url: https://bertok.wilhelmlang.com/
   - name: FastSpring
     url: https://fastspring.paion-data.com/
   - name: Paion Data API Gateway
