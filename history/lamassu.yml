@@ -1,7 +1,7 @@
-url: https://huggingface.co/spaces/paion-data/lamassu
+url: https://paion-data-lamassu.hf.space/gradio_api/call/predict
 status: up
 code: 200
-responseTime: 62
-lastUpdated: 2025-01-26T06:38:49.822Z
+responseTime: 98
+lastUpdated: 2025-01-26T12:19:32.899Z
 startTime: 2025-01-24T14:36:07.935Z
 generator: Upptime <https://github.com/upptime/upptime>
