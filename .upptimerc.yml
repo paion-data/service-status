@@ -41,6 +41,7 @@ sites:
 
 status-website:
   cname: status.paion-data.dev
+  favicon: https://paion-data.com/favicon.ico
   logoUrl: https://avatars.githubusercontent.com/u/113274132?s=200&v=4
   name: Paion Data Services
   introTitle: "Welcome to Paion Data's home for real-time and historical data on system performance."
