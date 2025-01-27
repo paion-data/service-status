@@ -4,6 +4,8 @@ repo: service-status
 sites:
   - name: paion-data.com
     url: https://paion-data.com/
+  - name: Nexus Graph
+    url: https://nexusgraph.com/
   - name: wilhelmlang.com
     url: https://wilhelmlang.com
   - name: VK-45.01
