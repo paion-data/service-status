@@ -52,6 +52,6 @@ status-website:
       href: https://github.com/$OWNER/$REPO
   theme: ocean
 
-commitMessages:
-  commitAuthorName: "QubitPi"
-  commitAuthorEmail: "jack20220723@gmail.com"
+# commitMessages:
+#   commitAuthorName: "QubitPi"
+#   commitAuthorEmail: "jack20220723@gmail.com"
