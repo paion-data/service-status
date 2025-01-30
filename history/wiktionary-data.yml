@@ -1,7 +1,7 @@
 url: https://huggingface.co/datasets/paion-data/wiktionary-data
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-30T04:58:20.792Z
+status: up
+code: 200
+responseTime: 11269
+lastUpdated: 2025-01-30T05:10:41.748Z
 startTime: 2025-01-24T14:36:45.423Z
 generator: Upptime <https://github.com/upptime/upptime>
