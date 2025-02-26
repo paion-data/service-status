@@ -1,7 +1,7 @@
 url: https://huggingface.co/spaces/paion-data/aristotle
-status: up
-code: 200
-responseTime: 49
-lastUpdated: 2025-02-26T09:53:13.656Z
+status: down
+code: 403
+responseTime: 4
+lastUpdated: 2025-02-26T15:12:30.335Z
 startTime: 2025-01-24T14:35:25.728Z
 generator: Upptime <https://github.com/upptime/upptime>
