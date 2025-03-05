@@ -33,6 +33,8 @@ sites:
     url: https://bertok.wilhelmlang.com/
   - name: FastSpring
     url: https://fastspring.paion-data.com/
+  - name: Chatbot WS
+    url: https://chatbot.paion-data.com/
   - name: Paion Data API Gateway
     url:  https://api.paion-data.dev/wilhelm/languages/german?perPage=100&page=1
     icon: https://konghq.com/favicon.ico
