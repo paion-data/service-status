@@ -40,6 +40,10 @@ sites:
     icon: https://konghq.com/favicon.ico
   - name: hashistack
     url: https://hashistack.paion-data.dev/
+  - name: (Team's Knowledge Hub) Git
+    url: https://git.paion-data.dev/
+  - name: (Team's Knowledge Hub) Jest
+    url: https://jest.paion-data.dev/
 
 status-website:
   cname: status.paion-data.dev
