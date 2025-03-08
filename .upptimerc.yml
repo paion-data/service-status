@@ -35,11 +35,13 @@ sites:
     url: https://fastspring.paion-data.com/
   - name: Chatbot WS
     url: https://chatbot.paion-data.com/
+  - name: hashistack
+    url: https://hashistack.paion-data.dev/
   - name: Paion Data API Gateway
     url:  https://api.paion-data.dev/wilhelm/languages/german?perPage=100&page=1
     icon: https://konghq.com/favicon.ico
-  - name: hashistack
-    url: https://hashistack.paion-data.dev/
+  - name: Paion Data Corp Mail
+    url: https://mail.paion-data.dev/
   - name: (Team's Knowledge Hub) Testcontainers for Java
     url: http://testcontainers-java.paion-data.dev/
   - name: (Team's Knowledge Hub) Git
