@@ -42,6 +42,7 @@ sites:
     icon: https://konghq.com/favicon.ico
   - name: Paion Data Corp Mail
     url: https://mail.paion-data.dev/
+    icon: https://avatars.githubusercontent.com/u/15187237?s=200&v=4
   - name: (Team's Knowledge Hub) Testcontainers for Java
     url: http://testcontainers-java.paion-data.dev/
   - name: (Team's Knowledge Hub) Git
