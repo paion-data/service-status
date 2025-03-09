@@ -40,7 +40,7 @@ sites:
   - name: Paion Data API Gateway
     url:  https://api.paion-data.dev/wilhelm/languages/german?perPage=100&page=1
     icon: https://konghq.com/favicon.ico
-  - name: Paion Data Corp Mail
+  - name: Paion Data Corp Mail Service
     url: https://mail.paion-data.dev/
     icon: https://avatars.githubusercontent.com/u/15187237?s=200&v=4
   - name: (Team's Knowledge Hub) Testcontainers for Java
