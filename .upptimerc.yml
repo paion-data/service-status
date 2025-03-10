@@ -16,15 +16,14 @@ sites:
     url: https://huggingface.co/spaces/paion-data/tiger
   - name: Aristotle
     url: https://paion-data-aristotle.hf.space/gradio_api/call/tts
+    method: POST
     headers:
       - "Content-Type: application/json"
     body: '{ "data": [ "Hello!!", "Hello!!", "tts-1", "alloy", "mp3", 0.25 ]}'
-    expectedStatusCodes:
-      - 200
   - name: Lamassu
     icon: https://huggingface.co/favicon.ico
-    method: POST
     url: https://paion-data-lamassu.hf.space/gradio_api/call/predict
+    method: POST
     headers:
       - "Content-Type: application/json"
     body: '{ "data": ["我爱中国"] }'
