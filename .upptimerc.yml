@@ -19,6 +19,8 @@ sites:
     headers:
       - "Content-Type: application/json"
     body: '{ "data": [ "Hello!!", "Hello!!", "tts-1", "alloy", "mp3", 0.25 ]}'
+    expectedStatusCodes:
+      - 200
   - name: Lamassu
     icon: https://huggingface.co/favicon.ico
     method: POST
