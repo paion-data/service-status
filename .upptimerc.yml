@@ -15,7 +15,10 @@ sites:
   - name: Tiger
     url: https://huggingface.co/spaces/paion-data/tiger
   - name: Aristotle
-    url: https://paion-data-aristotle.hf.space/gradio_api/call/tts/123
+    url: https://paion-data-aristotle.hf.space/gradio_api/call/tts
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "data": [ "Hello!!", "Hello!!", "tts-1", "alloy", "mp3", 0.25 ]}'
   - name: Lamassu
     icon: https://huggingface.co/favicon.ico
     method: POST
@@ -67,3 +70,5 @@ status-website:
 commitMessages:
   commitAuthorName: "Paion Data [bot]"
   commitAuthorEmail: "bot@paion-data.dev"
+
+issue_author: paion-data-bot
