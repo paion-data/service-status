@@ -1,7 +1,7 @@
-url: https://paion-data-aristotle.hf.space/gradio_api/call/tts/123
+url: https://paion-data-aristotle.hf.space/gradio_api/call/tts
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-10T08:20:39.203Z
+code: 405
+responseTime: 81
+lastUpdated: 2025-03-10T08:26:35.900Z
 startTime: 2025-01-24T14:35:25.728Z
 generator: Upptime <https://github.com/upptime/upptime>
