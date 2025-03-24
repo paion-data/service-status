@@ -10,8 +10,6 @@ sites:
     url: https://vk4501.paion-data.com/
   - name: Alexandria
     url: https://alexandria.paion-data.com/
-  - name: Nexus Graph
-    url: https://nexusgraph.com/
   - name: Tiger
     url: https://huggingface.co/spaces/paion-data/tiger
   - name: Aristotle
