@@ -4,12 +4,6 @@ repo: service-status
 sites:
   - name: paion-data.com
     url: https://paion-data.com/
-  - name: wilhelmlang.com
-    url: https://wilhelmlang.com
-  - name: VK-45.01
-    url: https://vk4501.paion-data.com/
-  - name: Alexandria
-    url: https://alexandria.paion-data.com/
   - name: Tiger
     url: https://huggingface.co/spaces/paion-data/tiger
   - name: Aristotle
@@ -31,8 +25,6 @@ sites:
     url: https://ui.paion-data.com/
   - name: FastUI
     url: https://fastui.paion-data.com/
-  - name: Bertok
-    url: https://bertok.wilhelmlang.com/
   - name: FastSpring
     url: https://fastspring.paion-data.com/
   - name: Chatbot WS
