@@ -31,9 +31,9 @@ sites:
     url: https://chatbot.paion-data.com/
   - name: hashistack
     url: https://hashistack.paion-data.dev/
-  - name: Paion Data API Gateway
-    url:  https://api.paion-data.dev/wilhelm/languages/german?perPage=100&page=1
-    icon: https://konghq.com/favicon.ico
+  # - name: Paion Data API Gateway
+  #   url:  https://api.paion-data.dev/wilhelm/languages/german?perPage=100&page=1
+  #   icon: https://konghq.com/favicon.ico
   - name: Paion Data Corp Mail Service
     url: https://mail.paion-data.dev/
     icon: https://avatars.githubusercontent.com/u/15187237?s=200&v=4
