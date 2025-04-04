@@ -41,6 +41,8 @@ sites:
     url: https://writethedocs.paion-data.dev/
   - name: (Team's Knowledge Hub) Jest
     url: https://jest.paion-data.dev/
+  - name: (Team's Knowledge Hub) ArangoDB
+    url: https://arango.paion-data.dev/
   - name: (Team's Knowledge Hub) Testcontainers for Java
     url: http://testcontainers-java.paion-data.dev/
   - name: (Team's Knowledge Hub) Paion Data Docker Images
