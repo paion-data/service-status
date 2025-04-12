@@ -1,7 +1,7 @@
 url: https://huggingface.co/spaces/paion-data/tiger
-status: up
-code: 200
-responseTime: 101
-lastUpdated: 2025-04-11T23:12:14.213Z
+status: down
+code: 403
+responseTime: 120
+lastUpdated: 2025-04-12T07:48:36.162Z
 startTime: 2025-01-24T14:34:02.658Z
 generator: Upptime <https://github.com/upptime/upptime>
