@@ -47,6 +47,8 @@ sites:
     url: http://testcontainers-java.paion-data.dev/
   - name: (Team's Knowledge Hub) Paion Data Docker Images
     url: https://linuxserver.paion-data.dev/
+  - name: (Team's Knowledge Hub) MailHog
+    url: https://mailhog.paion-data.dev/
   - name: (Team's Knowledge Hub) Git
     url: https://git.paion-data.dev/
 
