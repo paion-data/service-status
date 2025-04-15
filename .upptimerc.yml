@@ -52,7 +52,6 @@ sites:
   - name: (Team's Knowledge Hub) Git
     url: https://git.paion-data.dev/
 
-
 status-website:
   cname: status.paion-data.dev
   favicon: https://paion-data.com/favicon.ico
