@@ -6,8 +6,8 @@ sites:
     url: https://paion-data.com/
   - name: Tiger
     url: https://huggingface.co/spaces/paion-data/tiger
-  - name: Aristotle
-    url: https://paion-data-aristotle.hf.space/gradio_api/call/tts
+  - name: Pantex
+    url: https://paion-data-pantex.hf.space/gradio_api/call/tts
     method: POST
     headers:
       - "Content-Type: application/json"
