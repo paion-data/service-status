@@ -74,19 +74,19 @@
     "url": "https://paion-data-pantex.hf.space/gradio_api/call/tts",
     "icon": "https://icons.duckduckgo.com/ip3/paion-data-pantex.hf.space.ico",
     "slug": "pantex",
-    "status": "down",
-    "uptime": "1.64%",
-    "uptimeDay": "1.64%",
-    "uptimeWeek": "1.64%",
-    "uptimeMonth": "1.64%",
-    "uptimeYear": "1.64%",
-    "time": 128,
-    "timeDay": 128,
-    "timeWeek": 128,
-    "timeMonth": 128,
-    "timeYear": 128,
+    "status": "up",
+    "uptime": "0.69%",
+    "uptimeDay": "0.69%",
+    "uptimeWeek": "0.69%",
+    "uptimeMonth": "0.69%",
+    "uptimeYear": "0.69%",
+    "time": 252,
+    "timeDay": 252,
+    "timeWeek": 252,
+    "timeMonth": 252,
+    "timeYear": 252,
     "dailyMinutesDown": {
-      "2025-04-17": 0
+      "2025-04-17": 23
     }
   },
   {
