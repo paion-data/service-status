@@ -1,7 +1,7 @@
 url: https://paion-data-pantex.hf.space/gradio_api/call/tts
-status: up
-code: 200
-responseTime: 515
-lastUpdated: 2025-04-17T23:12:37.929Z
+status: down
+code: 504
+responseTime: 10564
+lastUpdated: 2025-04-18T09:39:06.817Z
 startTime: 2025-04-17T05:53:13.613Z
 generator: Upptime <https://github.com/upptime/upptime>
