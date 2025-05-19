@@ -4,6 +4,8 @@ repo: service-status
 sites:
   - name: paion-data.com
     url: https://paion-data.com/
+  - name: Entity Webservice Documentation
+    url: https://entity-ws.paion-data.dev/
   - name: Tiger
     url: https://huggingface.co/spaces/paion-data/tiger
   - name: Pantex
