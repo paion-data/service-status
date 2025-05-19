@@ -6,6 +6,8 @@ sites:
     url: https://paion-data.com/
   - name: Entity Webservice Documentation
     url: https://entity-ws.paion-data.dev/
+  - name: Chatbot Webservice Documentation
+    url: https://chatbot.paion-data.com/
   - name: Tiger
     url: https://huggingface.co/spaces/paion-data/tiger
   - name: Pantex
@@ -29,8 +31,6 @@ sites:
     url: https://fastui.paion-data.com/
   - name: FastSpring
     url: https://fastspring.paion-data.com/
-  - name: Chatbot WS
-    url: https://chatbot.paion-data.com/
   - name: hashistack
     url: https://hashistack.paion-data.dev/
   # - name: Paion Data API Gateway
