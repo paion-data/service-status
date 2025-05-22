@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/paion-data.com.ico",
     "slug": "paion-data-com",
     "status": "up",
-    "uptime": "94.84%",
+    "uptime": "94.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.84%",
+    "uptimeYear": "94.85%",
     "time": 1125,
     "timeDay": 836,
     "timeWeek": 1065,
@@ -40,9 +40,9 @@
     "url": "https://entity-ws.paion-data.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/entity-ws.paion-data.dev.ico",
     "slug": "entity-webservice-documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 263,
     "timeMonth": 263,
     "timeYear": 263,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-22": 0
+    }
   },
   {
     "name": "Chatbot Webservice Documentation",
