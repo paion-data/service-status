@@ -4,8 +4,8 @@ repo: service-status
 sites:
   - name: paion-data.com
     url: https://paion-data.com/
-  - name: Entity Webservice Documentation
-    url: https://entity-ws.paion-data.dev/
+  - name: Kugelblitz
+    url: https://kugelblitz.paion-data.dev/
   - name: Chatbot Webservice Documentation
     url: https://chatbot.paion-data.com/
   - name: Tiger
