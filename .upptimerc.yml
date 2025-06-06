@@ -6,8 +6,8 @@ sites:
     url: https://paion-data.com/
   - name: Kugelblitz
     url: https://kugelblitz.paion-data.com/
-  - name: Chatbot Webservice Documentation
-    url: https://chatbot.paion-data.com/
+  - name: Fiore
+    url: http://fiore.paion-data.com/
   - name: Tiger
     url: https://huggingface.co/spaces/paion-data/tiger
   - name: Pantex
