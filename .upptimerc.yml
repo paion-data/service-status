@@ -5,7 +5,7 @@ sites:
   - name: paion-data.com
     url: https://paion-data.com/
   - name: Kugelblitz
-    url: https://kugelblitz.paion-data.dev/
+    url: https://kugelblitz.paion-data.com/
   - name: Chatbot Webservice Documentation
     url: https://chatbot.paion-data.com/
   - name: Tiger
